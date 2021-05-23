@@ -87,7 +87,7 @@ Optimizing Public Transportation
 	1. ```cd consumer```
 	2. ```python server.py```
 
-(https://github.com/Ahmed0028/Data-Streaming/blob/4fedbae5af3e34bf2162761d48ced5679a0c5fdc/Program-projects/P1.%20Optimizing%20Public%20Transportation/consumer/Images/URL.png)
+![Image of Yaktocat](https://github.com/Ahmed0028/Data-Streaming/blob/4fedbae5af3e34bf2162761d48ced5679a0c5fdc/Program-projects/P1.%20Optimizing%20Public%20Transportation/consumer/Images/URL.png)
 
 * The Web UI should look like this:
 (Program-projects/P1. Optimizing Public Transportation/consumer/Images/Status-Page.png)
