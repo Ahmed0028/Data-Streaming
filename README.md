@@ -2,7 +2,7 @@
 
 
 This repository contains material related to Udacity's [Data Streaming Nanodegree Program](https://www.udacity.com/course/data-streaming-nanodegree--nd029) program. It consists of a bunch of tutorials and Projects for various Data Streaming systems topics such as Apache Spark, Kafka, Spark Streaming, and Kafka Streaming . 
-In most cases, the tutorials lead you through implementing the fundamentals of stream processing, including how to work with the **Apache Kafka ecosystem**, **data schemas**, **ApacheAvro**, **Kafka Connect** and **REST proxy**, **KSQ**L, and **Faust Stream Processing**.
+In most cases, the tutorials lead you through implementing the fundamentals of stream processing, including how to work with the **Apache Kafka ecosystem**, **data schemas**, **ApacheAvro**, **Kafka Connect**, **REST proxy**, **KSQL**, and **Faust Stream Processing**.
 
 In the program itself, the projects are reviewed by Udacity experts, but they are available here as well.
 
