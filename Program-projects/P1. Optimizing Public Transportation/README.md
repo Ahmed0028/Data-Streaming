@@ -90,4 +90,4 @@ Optimizing Public Transportation
 ![Image of Yaktocat](https://github.com/Ahmed0028/Data-Streaming/blob/4fedbae5af3e34bf2162761d48ced5679a0c5fdc/Program-projects/P1.%20Optimizing%20Public%20Transportation/consumer/Images/URL.png)
 
 * The Web UI should look like this:
-(Program-projects/P1. Optimizing Public Transportation/consumer/Images/Status-Page.png)
+![Image of Yaktocat](https://github.com/Ahmed0028/Data-Streaming/blob/46f35d6be31915f54a55bdcc651771be288b48e8/Program-projects/P1.%20Optimizing%20Public%20Transportation/consumer/Images/Status-Page.png)
