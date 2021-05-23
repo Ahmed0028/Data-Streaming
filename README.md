@@ -1,4 +1,4 @@
-# #  Data Streaming Nanodegree Program
+ #  Data Streaming Nanodegree Program
 
 
 This repository contains material related to Udacity's [Data Streaming Nanodegree Program](https://www.udacity.com/course/data-streaming-nanodegree--nd029) program. It consists of a bunch of tutorials and Projects for various Data Streaming systems topics such as Apache Spark, Kafka, Spark Streaming, and Kafka Streaming . 
