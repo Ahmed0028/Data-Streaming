@@ -87,7 +87,7 @@ Optimizing Public Transportation
 	1. ```cd consumer```
 	2. ```python server.py```
 
-![alt text](Program-projects/P1. Optimizing Public Transportation/consumer/Images/URL.png)
+(Program-projects/P1. Optimizing Public Transportation/consumer/Images/URL.png)
 
 * The Web UI should look like this:
-![alt text](Program-projects/P1. Optimizing Public Transportation/consumer/Images/Status-Page.png)
+(Program-projects/P1. Optimizing Public Transportation/consumer/Images/Status-Page.png)
