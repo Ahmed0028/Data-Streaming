@@ -7,7 +7,7 @@ The Chicago Transit Authority (CTA) has asked us to develop a dashboard displayi
 
 Our architecture will look like so:
 
-![alt text](Program-projects/P1. Optimizing Public Transportation/consumer/Images/Project-Architecture.png)
+![Image of Yaktocat](Program-projects/P1. Optimizing Public Transportation/consumer/Images/Project-Architecture.png)
 
 
 
