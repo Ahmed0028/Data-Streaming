@@ -10,6 +10,6 @@ In the program itself, the projects are reviewed by Udacity experts, but they ar
 
 
 ## Projects :
-#### [Optimize Chicago Public Transit](https://github.com/Ahmed0028/NLP-Nandodegree/blob/master/Program-projects/P1-%202-Project-HMMPartOfSpeechTagging/HMM%20warmup%20(optional).ipynb) 
+#### [Optimize Chicago Public Transit](https://github.com/Ahmed0028/Data-Streaming/blob/e19ec6b79ec38db9a2062c7f59403429e7255246/Program-projects/P1.%20Optimizing%20Public%20Transportation/README.md) 
 - **Summary:** Use several modern data stream processing frameworks,to stream public transit status, using Kafka and the Kafka ecosystem, to build a stream processing application that shows the status of buses and trains in real time. you will learn how to have your own Python code produce events, use REST Proxy to send events over HTTP, and set up Kafka Connect to collect data from a Postgres database. Finally, you will utilize the Faust Python Stream Processing library to transform station data. 
 
