@@ -43,3 +43,7 @@ Evaluate Human Balance
 | |____screenshot 1.jpg
 ```
 
+![Image of Yaktocat](https://github.com/Ahmed0028/Data-Streaming/blob/546a9776bd28d4c61ec9fbb66be0d17d10907110/Program-projects/P2-Evaluate%20Human%20Balance/screenshots/screenshot-1.jpg)
+
+
+![Image of Yaktocat](https://github.com/Ahmed0028/Data-Streaming/blob/546a9776bd28d4c61ec9fbb66be0d17d10907110/Program-projects/P2-Evaluate%20Human%20Balance/screenshots/screenshot-2.jpg)
