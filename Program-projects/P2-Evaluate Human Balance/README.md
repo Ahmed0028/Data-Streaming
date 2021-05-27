@@ -11,7 +11,7 @@ The STEDI application development team has programmed certain business events to
 The application development team was not able to complete the feature as the graph is currently not receiving any data. Because the graph is currently not receiving any data, you need to generate a new payload in a Kafka topic and make it available to the STEDI application to consume. All these processes will be conducted via **Spark Streaming** API.
 
 ## Project Architecture 
-! [Image of Yaktocat](https://github.com/Ahmed0028/Data-Streaming/blob/6a0620a63817bc21e590ad1a75e4a168a8abcb50/Program-projects/P2-Evaluate%20Human%20Balance/images/Project-Architecture.png)
+![Image of Yaktocat](https://github.com/Ahmed0028/Data-Streaming/blob/6a0620a63817bc21e590ad1a75e4a168a8abcb50/Program-projects/P2-Evaluate%20Human%20Balance/images/Project-Architecture.png)
 
 ## Project Structure
 
